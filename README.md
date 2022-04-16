@@ -19,5 +19,5 @@
 * 👑손경민
 * 강주은
 * 임세아
-* 김성민 :: klucas5227@gmail.com https://coderhydra.tistory.com/
+* 김성민 :: coderhydra@gmail.com https://coderhydra.tistory.com/
 * 송하빈
